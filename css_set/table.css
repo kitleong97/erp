@@ -1,0 +1,15 @@
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table td {
+    border: 2px solid black;
+    white-space: nowrap
+}
+
+table th {
+    border: 2px solid black;
+    white-space: nowrap
+}
